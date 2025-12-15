@@ -1,0 +1,5 @@
+{
+  "name": "AlphaDeal - Intelligent Investment Banking Assistant",
+  "description": "A comprehensive AI-powered investment banking workspace featuring 10 specialized modules for deal sourcing, due diligence, valuation, and compliance, powered by Gemini 2.5.",
+  "requestFramePermissions": []
+}
